@@ -1,1 +1,1 @@
-# startu-investor-bridge-app
+# startup-investor-bridge-app
